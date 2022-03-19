@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb704367dc57984eabf76610887cb24, type: 3}
+  m_Name: 2x3_Wire
+  m_EditorClassIdentifier: 
+  size: {x: 2, y: 3}
+  prefab: {fileID: 3917365337086907053, guid: e875a693a0461a846b1e41f2132e9737, type: 3}

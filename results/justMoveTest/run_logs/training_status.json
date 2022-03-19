@@ -1,0 +1,47 @@
+{
+    "MoveToShow": {
+        "checkpoints": [
+            {
+                "steps": 38816,
+                "file_path": "results\\justMoveTest\\MoveToShow\\MoveToShow-38816.onnx",
+                "reward": null,
+                "creation_time": 1647442969.7111597,
+                "auxillary_file_paths": [
+                    "results\\justMoveTest\\MoveToShow\\MoveToShow-38816.pt"
+                ]
+            },
+            {
+                "steps": 66032,
+                "file_path": "results\\justMoveTest\\MoveToShow\\MoveToShow-66032.onnx",
+                "reward": null,
+                "creation_time": 1647443232.5961654,
+                "auxillary_file_paths": [
+                    "results\\justMoveTest\\MoveToShow\\MoveToShow-66032.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\justMoveTest\\MoveToShow\\MoveToShow-0.onnx",
+                "reward": null,
+                "creation_time": 1647443393.6916564,
+                "auxillary_file_paths": [
+                    "results\\justMoveTest\\MoveToShow\\MoveToShow-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\justMoveTest\\MoveToShow.onnx",
+            "reward": null,
+            "creation_time": 1647443393.6916564,
+            "auxillary_file_paths": [
+                "results\\justMoveTest\\MoveToShow\\MoveToShow-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

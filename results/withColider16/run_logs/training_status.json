@@ -1,0 +1,65 @@
+{
+    "MoveToShow": {
+        "checkpoints": [
+            {
+                "steps": 8499963,
+                "file_path": "results\\withColider16\\MoveToShow\\MoveToShow-8499963.onnx",
+                "reward": -1734.2441198175604,
+                "creation_time": 1647296726.4161303,
+                "auxillary_file_paths": [
+                    "results\\withColider16\\MoveToShow\\MoveToShow-8499963.pt"
+                ]
+            },
+            {
+                "steps": 8999994,
+                "file_path": "results\\withColider16\\MoveToShow\\MoveToShow-8999994.onnx",
+                "reward": -1640.6120886007946,
+                "creation_time": 1647296857.2481205,
+                "auxillary_file_paths": [
+                    "results\\withColider16\\MoveToShow\\MoveToShow-8999994.pt"
+                ]
+            },
+            {
+                "steps": 9499968,
+                "file_path": "results\\withColider16\\MoveToShow\\MoveToShow-9499968.onnx",
+                "reward": -3088.5364890666233,
+                "creation_time": 1647297001.183253,
+                "auxillary_file_paths": [
+                    "results\\withColider16\\MoveToShow\\MoveToShow-9499968.pt"
+                ]
+            },
+            {
+                "steps": 9999988,
+                "file_path": "results\\withColider16\\MoveToShow\\MoveToShow-9999988.onnx",
+                "reward": -2825.805830335617,
+                "creation_time": 1647297123.390403,
+                "auxillary_file_paths": [
+                    "results\\withColider16\\MoveToShow\\MoveToShow-9999988.pt"
+                ]
+            },
+            {
+                "steps": 10000384,
+                "file_path": "results\\withColider16\\MoveToShow\\MoveToShow-10000384.onnx",
+                "reward": -2512.6992857041564,
+                "creation_time": 1647297123.44522,
+                "auxillary_file_paths": [
+                    "results\\withColider16\\MoveToShow\\MoveToShow-10000384.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000384,
+            "file_path": "results\\withColider16\\MoveToShow.onnx",
+            "reward": -2512.6992857041564,
+            "creation_time": 1647297123.44522,
+            "auxillary_file_paths": [
+                "results\\withColider16\\MoveToShow\\MoveToShow-10000384.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

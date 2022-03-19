@@ -1,0 +1,65 @@
+{
+    "MoveToShow": {
+        "checkpoints": [
+            {
+                "steps": 8999964,
+                "file_path": "results\\justDriveNow\\MoveToShow\\MoveToShow-8999964.onnx",
+                "reward": null,
+                "creation_time": 1647446342.022976,
+                "auxillary_file_paths": [
+                    "results\\justDriveNow\\MoveToShow\\MoveToShow-8999964.pt"
+                ]
+            },
+            {
+                "steps": 9499982,
+                "file_path": "results\\justDriveNow\\MoveToShow\\MoveToShow-9499982.onnx",
+                "reward": null,
+                "creation_time": 1647446496.274834,
+                "auxillary_file_paths": [
+                    "results\\justDriveNow\\MoveToShow\\MoveToShow-9499982.pt"
+                ]
+            },
+            {
+                "steps": 9999990,
+                "file_path": "results\\justDriveNow\\MoveToShow\\MoveToShow-9999990.onnx",
+                "reward": null,
+                "creation_time": 1647446648.0340784,
+                "auxillary_file_paths": [
+                    "results\\justDriveNow\\MoveToShow\\MoveToShow-9999990.pt"
+                ]
+            },
+            {
+                "steps": 10006198,
+                "file_path": "results\\justDriveNow\\MoveToShow\\MoveToShow-10006198.onnx",
+                "reward": null,
+                "creation_time": 1647446648.4036891,
+                "auxillary_file_paths": [
+                    "results\\justDriveNow\\MoveToShow\\MoveToShow-10006198.pt"
+                ]
+            },
+            {
+                "steps": 10006198,
+                "file_path": "results\\justDriveNow\\MoveToShow\\MoveToShow-10006198.onnx",
+                "reward": null,
+                "creation_time": 1647448666.3846705,
+                "auxillary_file_paths": [
+                    "results\\justDriveNow\\MoveToShow\\MoveToShow-10006198.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10006198,
+            "file_path": "results\\justDriveNow\\MoveToShow.onnx",
+            "reward": null,
+            "creation_time": 1647448666.3846705,
+            "auxillary_file_paths": [
+                "results\\justDriveNow\\MoveToShow\\MoveToShow-10006198.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

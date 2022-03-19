@@ -1,0 +1,1730 @@
+Mono path[0] = 'D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Managed'
+Mono config path = 'D:/Unity Projects/NeuralNetwork/Builds/V3/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.861 seconds
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+UnloadTime: 0.741700 ms
+(30, 10)
+(17, 23)
+(1, 9)
+(27, 14)
+(31, 20)
+(4, 27)
+(25, 27)
+(7, 15)
+(23, 13)
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libdl.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libdl.so.dll
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libdl.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libSystem.dylib
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libSystem.dylib
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libdl.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libdl.so.dll
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libdl.so
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libSystem.dylib
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Mono/libSystem.dylib
+failed to get 100ns ticks
+(11, 26)
+(27, 27)
+(8, 25)
+(18, 27)
+(28, 23)
+(17, 14)
+(6, 26)
+(4, 19)
+(26, 25)
+(4, 24)
+(2, 16)
+(0, 18)
+(12, 8)
+(13, 9)
+(26, 22)
+(13, 10)
+(8, 23)
+(26, 19)
+(26, 26)
+(15, 20)
+(15, 19)
+(5, 25)
+(1, 11)
+(26, 7)
+(24, 26)
+(0, 8)
+(0, 9)
+(30, 6)
+(10, 24)
+(13, 28)
+(15, 6)
+(12, 9)
+(9, 28)
+(11, 16)
+(14, 23)
+(1, 19)
+(9, 10)
+(30, 20)
+(15, 15)
+(15, 12)
+(2, 15)
+(11, 18)
+(1, 5)
+(31, 17)
+(10, 9)
+(21, 17)
+(24, 10)
+(23, 24)
+(22, 23)
+(10, 14)
+(8, 11)
+(4, 11)
+(29, 23)
+(28, 24)
+(1, 26)
+(5, 21)
+(7, 10)
+(29, 9)
+(16, 18)
+(5, 20)
+(17, 13)
+(29, 20)
+(18, 26)
+(14, 25)
+(26, 27)
+(23, 7)
+(18, 24)
+(10, 25)
+(28, 8)
+(16, 15)
+(25, 6)
+(3, 26)
+(14, 21)
+(8, 10)
+(24, 21)
+(14, 8)
+(25, 6)
+(30, 11)
+(9, 28)
+(29, 25)
+(13, 10)
+(27, 27)
+(20, 23)
+(13, 27)
+(20, 15)
+(7, 26)
+(29, 17)
+(16, 28)
+(19, 8)
+(21, 23)
+(26, 14)
+(6, 7)
+(22, 16)
+(9, 11)
+(21, 28)
+(21, 23)
+(29, 15)
+(11, 19)
+(25, 7)
+(2, 17)
+(31, 17)
+(22, 16)
+(20, 10)
+(24, 20)
+(10, 17)
+(5, 23)
+(8, 18)
+(9, 26)
+(10, 13)
+(8, 14)
+(11, 24)
+(13, 16)
+(25, 28)
+(1, 6)
+(18, 7)
+(25, 27)
+(26, 15)
+(1, 7)
+(24, 25)
+(0, 10)
+(19, 15)
+(20, 10)
+(17, 15)
+(12, 15)
+(12, 8)
+(2, 18)
+(31, 18)
+(4, 26)
+(16, 17)
+(10, 15)
+(30, 27)
+(15, 25)
+(29, 26)
+(0, 26)
+(18, 17)
+(11, 15)
+(22, 25)
+(22, 15)
+(24, 5)
+(6, 9)
+(12, 20)
+(32, 19)
+(18, 22)
+(31, 25)
+(30, 5)
+(15, 7)
+(4, 22)
+(20, 22)
+(10, 11)
+(12, 8)
+(28, 10)
+(25, 18)
+(5, 6)
+(29, 18)
+(4, 14)
+(16, 20)
+(17, 18)
+(32, 23)
+(13, 8)
+(22, 25)
+(29, 19)
+(29, 7)
+(14, 10)
+(11, 9)
+(8, 20)
+(19, 10)
+(23, 14)
+(11, 15)
+(27, 9)
+(25, 24)
+(6, 17)
+(27, 23)
+(25, 28)
+(6, 6)
+(21, 21)
+(28, 23)
+(2, 19)
+(26, 17)
+(18, 14)
+(20, 13)
+(14, 27)
+(3, 17)
+(14, 13)
+(1, 7)
+(25, 10)
+(14, 25)
+(27, 27)
+(1, 16)
+(19, 23)
+(30, 16)
+(30, 12)
+(18, 5)
+(20, 15)
+(9, 17)
+(24, 12)
+(28, 8)
+(28, 24)
+(0, 25)
+(26, 12)
+(3, 15)
+(21, 8)
+(15, 10)
+(24, 8)
+(4, 12)
+(15, 15)
+(27, 15)
+(31, 24)
+(28, 10)
+(22, 26)
+(23, 12)
+(29, 20)
+(4, 22)
+(19, 17)
+(19, 6)
+(27, 20)
+(4, 26)
+(1, 15)
+(28, 12)
+(17, 14)
+(15, 14)
+(14, 14)
+(11, 15)
+(14, 15)
+(17, 27)
+(25, 15)
+(24, 8)
+(13, 12)
+(6, 14)
+(5, 28)
+(2, 11)
+(20, 15)
+(6, 26)
+(17, 14)
+(3, 5)
+(21, 16)
+(7, 15)
+(31, 23)
+(17, 16)
+(6, 14)
+(27, 17)
+(10, 5)
+(11, 20)
+(8, 27)
+(15, 22)
+(16, 25)
+(18, 6)
+(15, 9)
+(28, 16)
+(23, 23)
+(29, 20)
+(17, 10)
+(5, 6)
+(28, 8)
+(7, 21)
+(19, 21)
+(9, 26)
+(7, 6)
+(19, 16)
+(12, 21)
+(25, 15)
+(6, 12)
+(2, 15)
+(14, 17)
+(18, 7)
+(31, 10)
+(26, 8)
+(28, 13)
+(25, 22)
+(3, 22)
+(0, 10)
+(20, 5)
+(31, 22)
+(27, 9)
+(25, 19)
+(4, 24)
+(2, 14)
+(20, 24)
+(19, 10)
+(18, 25)
+(16, 9)
+(17, 28)
+(0, 17)
+(13, 8)
+(2, 16)
+(16, 26)
+(10, 6)
+(29, 5)
+(13, 24)
+(6, 24)
+(19, 17)
+(0, 17)
+(10, 28)
+(21, 28)
+(2, 12)
+(2, 27)
+(1, 21)
+(5, 19)
+(29, 11)
+(7, 7)
+(19, 19)
+(18, 16)
+(27, 19)
+(10, 7)
+(27, 26)
+(10, 22)
+(10, 10)
+(18, 18)
+(2, 13)
+(26, 23)
+(19, 20)
+(0, 7)
+(20, 13)
+(2, 28)
+(10, 20)
+(18, 26)
+(10, 14)
+(6, 27)
+(13, 13)
+(26, 18)
+(2, 10)
+(21, 12)
+(2, 27)
+(0, 12)
+(24, 24)
+(18, 7)
+(1, 23)
+(15, 7)
+(7, 10)
+(3, 14)
+(19, 6)
+(4, 5)
+(28, 23)
+(8, 8)
+(25, 14)
+(18, 10)
+(27, 20)
+(25, 20)
+(25, 5)
+(24, 12)
+(8, 25)
+(15, 11)
+(9, 11)
+(4, 9)
+(28, 14)
+(13, 10)
+(22, 11)
+(1, 11)
+(14, 8)
+(7, 24)
+(10, 13)
+(15, 7)
+(29, 8)
+(17, 20)
+(16, 19)
+(19, 13)
+(5, 18)
+(24, 19)
+(19, 20)
+(25, 9)
+(0, 10)
+(4, 14)
+(10, 7)
+(13, 21)
+(28, 22)
+(30, 28)
+(2, 15)
+(3, 26)
+(21, 19)
+(26, 8)
+(23, 8)
+(12, 18)
+(18, 25)
+(15, 28)
+(28, 23)
+(15, 26)
+(4, 19)
+(17, 20)
+(14, 6)
+(21, 25)
+(7, 19)
+(28, 22)
+(26, 23)
+(24, 8)
+(31, 25)
+(12, 15)
+(27, 19)
+(13, 13)
+(3, 7)
+(0, 16)
+(0, 20)
+(8, 15)
+(24, 16)
+(17, 26)
+(29, 7)
+(29, 18)
+(14, 22)
+(16, 7)
+(28, 14)
+(1, 8)
+(23, 11)
+(25, 6)
+(14, 19)
+(1, 20)
+(6, 17)
+(16, 24)
+(3, 13)
+(9, 27)
+(0, 18)
+(24, 17)
+(1, 14)
+(10, 26)
+(24, 8)
+(31, 26)
+(1, 6)
+(21, 12)
+(16, 26)
+(0, 20)
+(20, 22)
+(12, 20)
+(16, 9)
+(27, 5)
+(29, 28)
+(11, 24)
+(6, 8)
+(22, 10)
+(14, 9)
+(1, 15)
+(4, 23)
+(26, 25)
+(26, 14)
+(22, 10)
+(11, 10)
+(32, 12)
+(24, 7)
+(1, 10)
+(1, 5)
+(10, 16)
+(29, 26)
+(22, 22)
+(23, 26)
+(19, 28)
+(19, 7)
+(25, 19)
+(15, 7)
+(17, 18)
+(21, 6)
+(12, 26)
+(18, 10)
+(13, 25)
+(18, 20)
+(23, 8)
+(5, 8)
+(1, 8)
+(8, 18)
+(11, 27)
+(1, 19)
+(17, 21)
+(3, 9)
+(14, 11)
+(31, 14)
+(26, 27)
+(29, 22)
+(18, 15)
+(4, 17)
+(30, 27)
+(11, 27)
+(19, 13)
+(4, 15)
+(20, 12)
+(24, 26)
+(18, 24)
+(14, 18)
+(0, 15)
+(8, 27)
+(12, 19)
+(26, 25)
+(17, 13)
+(3, 28)
+(28, 11)
+(28, 27)
+(6, 6)
+(12, 23)
+(14, 9)
+(1, 23)
+(20, 16)
+(24, 20)
+(19, 26)
+(22, 28)
+(21, 18)
+(17, 16)
+(31, 24)
+(11, 25)
+(13, 5)
+(8, 18)
+(22, 5)
+(10, 23)
+(13, 21)
+(5, 23)
+(4, 24)
+(24, 13)
+(10, 14)
+(19, 5)
+(7, 11)
+(16, 7)
+(24, 11)
+(0, 10)
+(1, 13)
+(29, 19)
+(16, 17)
+(10, 17)
+(24, 5)
+(10, 25)
+(18, 23)
+(20, 18)
+(3, 26)
+(18, 20)
+(22, 17)
+(20, 28)
+(31, 16)
+(14, 22)
+(4, 10)
+(6, 24)
+(0, 5)
+(1, 21)
+(30, 21)
+(3, 6)
+(2, 18)
+(11, 5)
+(6, 11)
+(28, 5)
+(28, 5)
+(7, 12)
+(3, 20)
+(13, 14)
+(9, 21)
+(27, 24)
+(4, 14)
+(29, 10)
+(6, 17)
+(4, 5)
+(7, 24)
+(2, 22)
+(13, 6)
+(14, 7)
+(27, 8)
+(10, 9)
+(19, 7)
+(10, 16)
+(23, 17)
+(29, 12)
+(9, 28)
+(20, 28)
+(20, 8)
+(19, 22)
+(21, 25)
+(19, 11)
+(4, 23)
+(25, 17)
+(0, 13)
+(4, 15)
+(13, 13)
+(3, 21)
+(31, 12)
+(7, 12)
+(29, 13)
+(27, 15)
+(24, 17)
+(28, 16)
+(19, 12)
+(14, 21)
+(12, 23)
+(15, 24)
+(5, 28)
+(1, 14)
+(14, 13)
+(8, 20)
+(21, 12)
+(32, 18)
+(21, 5)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 7e70 -> priority: 1 
+  Thread -> id: be08 -> priority: 1 
+  Thread -> id: 4b04 -> priority: 1 
+  Thread -> id: 9fc -> priority: 1 
+  Thread -> id: c2f4 -> priority: 1 
+  Thread -> id: 4e88 -> priority: 1 
+  Thread -> id: 2bb4 -> priority: 1 
+  Thread -> id: 5204 -> priority: 1 
+  Thread -> id: 8d2c -> priority: 1 
+  Thread -> id: 9470 -> priority: 1 

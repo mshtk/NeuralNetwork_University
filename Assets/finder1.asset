@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 173b716e1de6903409379965012490b7, type: 3}
+  m_Name: finder1
+  m_EditorClassIdentifier: 
+  layers: 04000000030000000300000002000000
+  json: '[[[-5.38061857,-7.92917776,-1.64959633,-6.4216156],[-8.512284,20.52356,5.58330965,-12.5081034],[-0.8460356,-6.639633,-3.06153584,0.545139432]],[[-8.404058,16.7739315,0.765002],[-2.272238,-12.4924135,2.16647172],[-7.79889441,7.362708,0.654132]],[[6.93624163,1.23520744,-13.9874773],[3.345761,1.91063893,-7.05153465]]]'
+  fitness: 20.56028
+  generation: 214

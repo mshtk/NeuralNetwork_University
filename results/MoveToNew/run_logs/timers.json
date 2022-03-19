@@ -1,0 +1,89 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1646698554",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Unity Projects\\NeuralNetwork\\venv\\Scripts\\mlagents-learn config/move.yaml --run-id=MoveToNew --resume",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.5",
+        "end_time_seconds": "1646698560"
+    },
+    "total": 6.7622483,
+    "count": 1,
+    "self": 0.00870590000000071,
+    "children": {
+        "run_training.setup": {
+            "total": 0.06264779999999992,
+            "count": 1,
+            "self": 0.06264779999999992
+        },
+        "TrainerController.start_learning": {
+            "total": 6.6908946,
+            "count": 1,
+            "self": 0.00012469999999975556,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 6.6899178,
+                    "count": 1,
+                    "self": 6.4754589000000005,
+                    "children": {
+                        "demo_to_buffer": {
+                            "total": 0.21445889999999945,
+                            "count": 1,
+                            "self": 1.9299999999056183e-05,
+                            "children": {
+                                "load_demonstration": {
+                                    "total": 0.003854500000000094,
+                                    "count": 1,
+                                    "self": 0.003790799999999983,
+                                    "children": {
+                                        "read_file": {
+                                            "total": 6.370000000011089e-05,
+                                            "count": 1,
+                                            "self": 6.370000000011089e-05
+                                        }
+                                    }
+                                },
+                                "make_demo_buffer": {
+                                    "total": 0.2105851000000003,
+                                    "count": 1,
+                                    "self": 0.031444700000031744,
+                                    "children": {
+                                        "steps_from_proto": {
+                                            "total": 0.17914039999996856,
+                                            "count": 2492,
+                                            "self": 0.0854722999999673,
+                                            "children": {
+                                                "_process_rank_one_or_two_observation": {
+                                                    "total": 0.09366810000000125,
+                                                    "count": 14952,
+                                                    "self": 0.09366810000000125
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "TrainerController._save_models": {
+                    "total": 0.0008521000000003554,
+                    "count": 1,
+                    "self": 0.00024420000000002773,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.0006079000000003276,
+                            "count": 1,
+                            "self": 0.0006079000000003276
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

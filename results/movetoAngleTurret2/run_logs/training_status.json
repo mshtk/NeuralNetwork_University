@@ -1,0 +1,65 @@
+{
+    "MoveToShow": {
+        "checkpoints": [
+            {
+                "steps": 1085126,
+                "file_path": "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-1085126.onnx",
+                "reward": 2.0607874592145285,
+                "creation_time": 1647129155.7456048,
+                "auxillary_file_paths": [
+                    "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-1085126.pt"
+                ]
+            },
+            {
+                "steps": 1499972,
+                "file_path": "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-1499972.onnx",
+                "reward": 3.2688064416249594,
+                "creation_time": 1647133179.4446485,
+                "auxillary_file_paths": [
+                    "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-1499972.pt"
+                ]
+            },
+            {
+                "steps": 1999971,
+                "file_path": "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-1999971.onnx",
+                "reward": 3.9300001859664917,
+                "creation_time": 1647134059.9493716,
+                "auxillary_file_paths": [
+                    "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-1999971.pt"
+                ]
+            },
+            {
+                "steps": 2499980,
+                "file_path": "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-2499980.onnx",
+                "reward": 5.119994205236435,
+                "creation_time": 1647134958.0768938,
+                "auxillary_file_paths": [
+                    "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-2499980.pt"
+                ]
+            },
+            {
+                "steps": 2900018,
+                "file_path": "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-2900018.onnx",
+                "reward": 5.732798916952951,
+                "creation_time": 1647135698.0327706,
+                "auxillary_file_paths": [
+                    "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-2900018.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2900018,
+            "file_path": "results\\movetoAngleTurret2\\MoveToShow.onnx",
+            "reward": 5.732798916952951,
+            "creation_time": 1647135698.0327706,
+            "auxillary_file_paths": [
+                "results\\movetoAngleTurret2\\MoveToShow\\MoveToShow-2900018.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

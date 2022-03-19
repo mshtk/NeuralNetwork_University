@@ -1,0 +1,65 @@
+{
+    "MoveToShow": {
+        "checkpoints": [
+            {
+                "steps": 500024,
+                "file_path": "results\\moveto\\MoveToShow\\MoveToShow-500024.onnx",
+                "reward": 5.0,
+                "creation_time": 1647113334.1928134,
+                "auxillary_file_paths": [
+                    "results\\moveto\\MoveToShow\\MoveToShow-500024.pt"
+                ]
+            },
+            {
+                "steps": 500024,
+                "file_path": "results\\moveto\\MoveToShow\\MoveToShow-500024.onnx",
+                "reward": null,
+                "creation_time": 1647113396.9003012,
+                "auxillary_file_paths": [
+                    "results\\moveto\\MoveToShow\\MoveToShow-500024.pt"
+                ]
+            },
+            {
+                "steps": 500024,
+                "file_path": "results\\moveto\\MoveToShow\\MoveToShow-500024.onnx",
+                "reward": null,
+                "creation_time": 1647113410.3897414,
+                "auxillary_file_paths": [
+                    "results\\moveto\\MoveToShow\\MoveToShow-500024.pt"
+                ]
+            },
+            {
+                "steps": 607410,
+                "file_path": "results\\moveto\\MoveToShow\\MoveToShow-607410.onnx",
+                "reward": null,
+                "creation_time": 1647113608.1062694,
+                "auxillary_file_paths": [
+                    "results\\moveto\\MoveToShow\\MoveToShow-607410.pt"
+                ]
+            },
+            {
+                "steps": 702901,
+                "file_path": "results\\moveto\\MoveToShow\\MoveToShow-702901.onnx",
+                "reward": null,
+                "creation_time": 1647113843.9686806,
+                "auxillary_file_paths": [
+                    "results\\moveto\\MoveToShow\\MoveToShow-702901.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 702901,
+            "file_path": "results\\moveto\\MoveToShow.onnx",
+            "reward": null,
+            "creation_time": 1647113843.9686806,
+            "auxillary_file_paths": [
+                "results\\moveto\\MoveToShow\\MoveToShow-702901.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

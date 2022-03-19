@@ -1,0 +1,56 @@
+{
+    "Tank Drive": {
+        "checkpoints": [
+            {
+                "steps": 19128,
+                "file_path": "results\\ppo\\Tank Drive\\Tank Drive-19128.onnx",
+                "reward": -22.981578963367564,
+                "creation_time": 1646681598.248768,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Tank Drive\\Tank Drive-19128.pt"
+                ]
+            },
+            {
+                "steps": 25620,
+                "file_path": "results\\ppo\\Tank Drive\\Tank Drive-25620.onnx",
+                "reward": 56.3433332602183,
+                "creation_time": 1646681822.210546,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Tank Drive\\Tank Drive-25620.pt"
+                ]
+            },
+            {
+                "steps": 48324,
+                "file_path": "results\\ppo\\Tank Drive\\Tank Drive-48324.onnx",
+                "reward": 65.30714273452759,
+                "creation_time": 1646681980.705209,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Tank Drive\\Tank Drive-48324.pt"
+                ]
+            },
+            {
+                "steps": 58621,
+                "file_path": "results\\ppo\\Tank Drive\\Tank Drive-58621.onnx",
+                "reward": null,
+                "creation_time": 1646682131.326593,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Tank Drive\\Tank Drive-58621.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 58621,
+            "file_path": "results\\ppo\\Tank Drive.onnx",
+            "reward": null,
+            "creation_time": 1646682131.326593,
+            "auxillary_file_paths": [
+                "results\\ppo\\Tank Drive\\Tank Drive-58621.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

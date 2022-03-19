@@ -1,0 +1,65 @@
+{
+    "DriveTank": {
+        "checkpoints": [
+            {
+                "steps": 15658,
+                "file_path": "results\\Imitation\\DriveTank\\DriveTank-15658.onnx",
+                "reward": -0.6,
+                "creation_time": 1646686238.6632838,
+                "auxillary_file_paths": [
+                    "results\\Imitation\\DriveTank\\DriveTank-15658.pt"
+                ]
+            },
+            {
+                "steps": 26126,
+                "file_path": "results\\Imitation\\DriveTank\\DriveTank-26126.onnx",
+                "reward": null,
+                "creation_time": 1646686453.9199169,
+                "auxillary_file_paths": [
+                    "results\\Imitation\\DriveTank\\DriveTank-26126.pt"
+                ]
+            },
+            {
+                "steps": 98923,
+                "file_path": "results\\Imitation\\DriveTank\\DriveTank-98923.onnx",
+                "reward": -14.26341438293457,
+                "creation_time": 1646686696.8087542,
+                "auxillary_file_paths": [
+                    "results\\Imitation\\DriveTank\\DriveTank-98923.pt"
+                ]
+            },
+            {
+                "steps": 499973,
+                "file_path": "results\\Imitation\\DriveTank\\DriveTank-499973.onnx",
+                "reward": 0.7202140092849731,
+                "creation_time": 1646687637.7344878,
+                "auxillary_file_paths": [
+                    "results\\Imitation\\DriveTank\\DriveTank-499973.pt"
+                ]
+            },
+            {
+                "steps": 500037,
+                "file_path": "results\\Imitation\\DriveTank\\DriveTank-500037.onnx",
+                "reward": 0.7202140092849731,
+                "creation_time": 1646687637.7868464,
+                "auxillary_file_paths": [
+                    "results\\Imitation\\DriveTank\\DriveTank-500037.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500037,
+            "file_path": "results\\Imitation\\DriveTank.onnx",
+            "reward": 0.7202140092849731,
+            "creation_time": 1646687637.7868464,
+            "auxillary_file_paths": [
+                "results\\Imitation\\DriveTank\\DriveTank-500037.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

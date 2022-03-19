@@ -1,0 +1,56 @@
+{
+    "DriveTank": {
+        "checkpoints": [
+            {
+                "steps": 184017,
+                "file_path": "results\\MoveTo4\\DriveTank\\DriveTank-184017.onnx",
+                "reward": null,
+                "creation_time": 1646689841.2132828,
+                "auxillary_file_paths": [
+                    "results\\MoveTo4\\DriveTank\\DriveTank-184017.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\MoveTo4\\DriveTank\\DriveTank-0.onnx",
+                "reward": null,
+                "creation_time": 1646689983.2360334,
+                "auxillary_file_paths": [
+                    "results\\MoveTo4\\DriveTank\\DriveTank-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\MoveTo4\\DriveTank\\DriveTank-0.onnx",
+                "reward": null,
+                "creation_time": 1646690027.901077,
+                "auxillary_file_paths": [
+                    "results\\MoveTo4\\DriveTank\\DriveTank-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\MoveTo4\\DriveTank\\DriveTank-0.onnx",
+                "reward": null,
+                "creation_time": 1646698509.3166573,
+                "auxillary_file_paths": [
+                    "results\\MoveTo4\\DriveTank\\DriveTank-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\MoveTo4\\DriveTank.onnx",
+            "reward": null,
+            "creation_time": 1646698509.3166573,
+            "auxillary_file_paths": [
+                "results\\MoveTo4\\DriveTank\\DriveTank-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "MoveToShow": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\withColider35\\MoveToShow\\MoveToShow-499968.onnx",
+                "reward": null,
+                "creation_time": 1647353210.0852003,
+                "auxillary_file_paths": [
+                    "results\\withColider35\\MoveToShow\\MoveToShow-499968.pt"
+                ]
+            },
+            {
+                "steps": 999936,
+                "file_path": "results\\withColider35\\MoveToShow\\MoveToShow-999936.onnx",
+                "reward": null,
+                "creation_time": 1647353616.5176365,
+                "auxillary_file_paths": [
+                    "results\\withColider35\\MoveToShow\\MoveToShow-999936.pt"
+                ]
+            },
+            {
+                "steps": 1485824,
+                "file_path": "results\\withColider35\\MoveToShow\\MoveToShow-1485824.onnx",
+                "reward": null,
+                "creation_time": 1647353917.0998523,
+                "auxillary_file_paths": [
+                    "results\\withColider35\\MoveToShow\\MoveToShow-1485824.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1485824,
+            "file_path": "results\\withColider35\\MoveToShow.onnx",
+            "reward": null,
+            "creation_time": 1647353917.0998523,
+            "auxillary_file_paths": [
+                "results\\withColider35\\MoveToShow\\MoveToShow-1485824.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "MoveToShow": {
+        "checkpoints": [
+            {
+                "steps": 2942642,
+                "file_path": "results\\withColider7\\MoveToShow\\MoveToShow-2942642.onnx",
+                "reward": 2.0293542109429836,
+                "creation_time": 1647215854.4273343,
+                "auxillary_file_paths": [
+                    "results\\withColider7\\MoveToShow\\MoveToShow-2942642.pt"
+                ]
+            },
+            {
+                "steps": 2999989,
+                "file_path": "results\\withColider7\\MoveToShow\\MoveToShow-2999989.onnx",
+                "reward": null,
+                "creation_time": 1647215946.5962193,
+                "auxillary_file_paths": [
+                    "results\\withColider7\\MoveToShow\\MoveToShow-2999989.pt"
+                ]
+            },
+            {
+                "steps": 3499953,
+                "file_path": "results\\withColider7\\MoveToShow\\MoveToShow-3499953.onnx",
+                "reward": 5.6544268019497395,
+                "creation_time": 1647216514.6874883,
+                "auxillary_file_paths": [
+                    "results\\withColider7\\MoveToShow\\MoveToShow-3499953.pt"
+                ]
+            },
+            {
+                "steps": 3667834,
+                "file_path": "results\\withColider7\\MoveToShow\\MoveToShow-3667834.onnx",
+                "reward": null,
+                "creation_time": 1647216728.7507658,
+                "auxillary_file_paths": [
+                    "results\\withColider7\\MoveToShow\\MoveToShow-3667834.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3667834,
+            "file_path": "results\\withColider7\\MoveToShow.onnx",
+            "reward": null,
+            "creation_time": 1647216728.7507658,
+            "auxillary_file_paths": [
+                "results\\withColider7\\MoveToShow\\MoveToShow-3667834.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

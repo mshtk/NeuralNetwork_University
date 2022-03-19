@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1647448655",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Unity Projects\\NeuralNetwork\\venv\\Scripts\\mlagents-learn config/movetoImitation.yaml --env=Builds/justDrive/NeuralNetwork --num-envs=20 --run-id=justDriveNow --resume",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.5",
+        "end_time_seconds": "1647448667"
+    },
+    "total": 11.8836843,
+    "count": 1,
+    "self": 0.6416750000000011,
+    "children": {
+        "run_training.setup": {
+            "total": 1.8008662,
+            "count": 1,
+            "self": 1.8008662
+        },
+        "TrainerController.start_learning": {
+            "total": 9.4411431,
+            "count": 1,
+            "self": 0.00011160000000032255,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 8.5003931,
+                    "count": 1,
+                    "self": 8.5003931
+                },
+                "trainer_threads": {
+                    "total": 5.999999999062311e-07,
+                    "count": 1,
+                    "self": 5.999999999062311e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 0.9406377999999993,
+                    "count": 1,
+                    "self": 0.005755099999998237,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.9348827000000011,
+                            "count": 1,
+                            "self": 0.9348827000000011
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

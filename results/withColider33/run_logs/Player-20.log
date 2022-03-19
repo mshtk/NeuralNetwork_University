@@ -1,0 +1,14 @@
+Mono path[0] = 'D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/Managed'
+Mono config path = 'D:/Unity Projects/NeuralNetwork/Builds/V3/MonoBleedingEdge/etc'
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/mariu/AppData/Local/Temp/DefaultCompany/NeuralNetwork/Crashes
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path D:/Unity Projects/NeuralNetwork/Builds/V3/NeuralNetwork_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.091 seconds
